@@ -1,0 +1,3 @@
+这四个文件中skempi_train.csv和skempi_test.csv是在skempiv2生成的skempi_train.csv和skempi_test.csv的基础上运行clean_csv.py
+代码得到的，目的是拿到只存在于skempiv1的数据条目。在运行
+process_dara_stru_1_图表征单独存储.py文件的时候选用的pdb文件是SKEMPI_all_pdbs下面的pdb文件。在training.py代码直接运行。
