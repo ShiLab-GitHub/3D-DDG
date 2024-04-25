@@ -1,6 +1,6 @@
 # Author statement
 
-This repository contains supporting files of data and code for the paper manuscript titled "3D-ΔΔG: A dual-channel prediction model for protein-protein binding affinity changes following mutation based on protein 3D structures" currently under review in this lab. The focus of this work is to predict changes in protein-protein affinity using three-dimensional structural information and amino acid sequences of variant side chains.
+This repository contains supporting files of data and code for the paper manuscript titled "3D-ΔΔG: A dual-channel prediction model for protein-protein binding affinity changes following mutation based on protein 3D structures". The focus of this work is to predict changes in protein-protein affinity using three-dimensional structural information and amino acid sequences of variant side chains.
 
 # Resources:
 
