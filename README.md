@@ -7,9 +7,9 @@ This repository contains supporting files of data and code for the paper manuscr
 + README.md: this file.
 + data/pdb_graph：This folder is used to save the results of the graph characterization code run out.(Create your own)
 + seq_embs/prot_aibert：This folder holds the results of generating embedding codes for protein sequences.
-+ my_model/aibert：Used to store the configuration file for the protaibert pre-trained large model, which is also the pre-trained model used in this project(Can be found at https://pan.baidu.com/s/1Eq14x-4T4i1VlJBvCxcu8Q  password:bhly )
++ my_model/aibert：Used to store the configuration file for the protaibert pre-trained large model, which is also the pre-trained model used in this project(Can be found at https://figshare.com/s/8bbfb73e8e47d4312911 )
 + my_model/output:  Holds the three result plots of the training output(Create your own)
-+  my_model/SKEMPI_all_pdbs: Where the pdb files used in this project are saved, this is the one used in this project.(Can be found at https://pan.baidu.com/s/1Eq14x-4T4i1VlJBvCxcu8Q  password:bhly )
++  my_model/SKEMPI_all_pdbs: Where the pdb files used in this project are saved, this is the one used in this project.(Can be found at https://figshare.com/s/8bbfb73e8e47d4312911 )
 
 ###  Source codes:
 
