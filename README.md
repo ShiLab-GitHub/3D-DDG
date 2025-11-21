@@ -1,3 +1,5 @@
+Our paper "3D-ΔΔG: A Dual-Channel Prediction Model for Protein-Protein Binding Affinity Changes Following Mutation Based on Protein 3D Structures" has been published in Proteins (PMID: 40375059, DOI: 10.1002/prot.26837) https://pubmed.ncbi.nlm.nih.gov/40375059/
+
 # Author statement
 
 This repository contains supporting files of data and code for the paper manuscript titled "3D-ΔΔG: A dual-channel prediction model for protein-protein binding affinity changes following mutation based on protein 3D structures". The focus of this work is to predict changes in protein-protein affinity using three-dimensional structural information and amino acid sequences of variant side chains.
